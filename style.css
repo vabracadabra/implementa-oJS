@@ -13,3 +13,7 @@ body{
     font-family: "Titan One", sans-serif;
     text-align: center;
 }
+#dias_restantes{
+    color: rgb(144, 255, 33);
+    font-size: 50px;
+}
