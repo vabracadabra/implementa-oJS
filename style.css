@@ -9,7 +9,9 @@ h1{
     font-family: "Bungee Spice", sans-serif;
     
 }
-
+span{
+    font-family: "Titan One", sans-serif;
+}
 
 #dias_restantes{
     color: rgb(144, 255, 33);
